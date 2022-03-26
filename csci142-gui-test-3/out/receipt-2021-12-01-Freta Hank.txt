@@ -1,0 +1,14 @@
+Wed Dec 01 01:09:22 EST 2021
+
+Name: Freta Hank
+Phone Number:  376-563-2633
+Address:  661 North Lane
+
+Method: Delivery
+ORDERED: 
+[[Small Pizza, C , 9.99]]
+
+Tip: $1.0
+Change: $4.26
+
+TOTAL: $10.74

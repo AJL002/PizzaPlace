@@ -1,0 +1,28 @@
+Fri Mar 25 21:48:17 EDT 2022
+
+Name: Joe Johnson
+Phone Number: 123 456 7890
+Address: 1234 Apple Street
+
+Method: Delivery
+ORDERED: 
+[[Medium Pizza, C P H S, 12.99], [BBQ Wings, 12, 6.99], [Sierra Mist, 2L, 3.49], [Medium Pizza, C G W N+ , 12.99]]
+
+Tip: $10.0
+Change: $10.81
+
+TOTAL: $39.19
+Fri Mar 25 21:50:02 EDT 2022
+
+Name: Joe Johnson
+Phone Number: 123 456 7890
+Address: null
+
+Method: TakeOut
+ORDERED: 
+[[Mtn Dew, 20oz, 1.99], [Sierra Mist, 20oz, 1.99], [Mug RB, 20oz, 1.99]]
+
+Tip: $1.0
+Change: $null
+
+TOTAL: $6.42

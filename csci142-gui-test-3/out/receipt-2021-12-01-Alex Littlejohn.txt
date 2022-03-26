@@ -1,0 +1,14 @@
+Wed Dec 01 01:05:11 EST 2021
+
+Name: Alex Littlejohn
+Phone Number: 384-583-9094
+Address: 1853 Northern Ln
+
+Method: Delivery
+ORDERED: 
+[[Medium Pizza, C P+ H< G> , 12.99], [Medium Pizza, C G W M B, 12.99], [Pepsi, 2L, 3.49], [Cheez-e Bread, Normal, 5.99], [Teriyaki Wings, 20, 8.99], [Pepsi, 20oz, 1.99]]
+
+Tip: $5.0
+Change: $0.08
+
+TOTAL: $49.92
