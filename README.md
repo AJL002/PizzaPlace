@@ -1,5 +1,6 @@
 # PizzaPlace
 My final project for Introduction to Computer Science II created in NetBeans with Java and Swing.
+-Check the Photos folder for screenshots of the program.
 
 A POS system used for pizza places.
 
